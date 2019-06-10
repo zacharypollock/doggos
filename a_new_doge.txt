@@ -1,3 +1,8 @@
 Bark Wars Episode IV: A New Doge stars Hercules Mulligan Polmot at Luke Skybarker.
+<<<<<<< HEAD
 Epidode V: The Owner Throws Back
 Episode VI: Return of the Owner (from work)
+=======
+
+New line added by Anabel to create conflict
+>>>>>>> 0140b63769d91676ccbfa4568344cd7a1accd18c
